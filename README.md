@@ -12,7 +12,7 @@ In this project a tried to make a very basic, simple face recignition command-li
 * Run the train.py script (this will create the trainedModel.pickle and the labels.pickle)
 * Run the recognize.py (the target class(es) will be displayed in a green rectangle with label; the non-target faces will be displayed with red without a label)
 
-_Note: add/remove files to the dataset, don't forget to re-run the train script_
+_Note: after add/remove files to the dataset, don't forget to re-run the train script_
 
 ### Dependencies
 
